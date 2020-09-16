@@ -1,0 +1,2 @@
+# Motion-and-Measurement-Model
+we will recursively estimate the position of a vehicle along a trajectory using available measurements and a motion model. The vehicle is equipped with a very simple type of LIDAR sensor, which returns range and bearing measurements corresponding to individual landmarks in the environment. The global positions of the landmarks are assumed to be known beforehand. We will also assume known data association, that is, which measurement belongs to which landmark.
